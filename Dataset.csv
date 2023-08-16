@@ -1,0 +1,6 @@
+Age,Gender,Income,Label
+25,Male,25000,0
+33,Female,40000,1
+42,Male,75000,1
+31,Female,,1
+28,Male,33000,0
